@@ -3,7 +3,7 @@
 ## About
 
 Hi, I'm Mukesh! ,an engineering Graduate background and hold a Bachelors degree of Technology in Mechanical Branch (Rajasthan Technical University).
-I had worked for 2 years in industry including relevant  1 + year's of experience Data Analytics  industry domains primarily focused on Energy, Retail, Manufacturing, and Finance. 
+I had worked for 2 years in industry including relevant  2 + year's of experience Data Analytics  industry domains primarily focused on Energy, Retail, Manufacturing, and Finance. 
 
 
 ## Table of contents
